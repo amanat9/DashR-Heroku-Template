@@ -1,5 +1,6 @@
 # Dash app in R deployed Using Heroku
-Video Tutorial : 
+Video Tutorial:
+https://youtu.be/QWqh-xuWq_8 
 
 Dont forget to add the build pack
 https://github.com/virtualstaticvoid/heroku-buildpack-r.git
